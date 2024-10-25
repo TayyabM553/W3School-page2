@@ -1,0 +1,253 @@
+
+#d4d1{
+    padding:  10px 30px;
+}
+#d4b1{
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(88, 197, 121);
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+#d4d1>h1{
+    font-weight: 500;
+    font-size: 40px;
+}
+#d4b1:hover,#d4b2:hover,#d4b3:hover{
+    background-color: rgb(8, 143, 69);
+}
+#d4b2{
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(88, 197, 121);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    float: right;
+}
+hr{
+    margin-top: 20px;
+    width: 97%;
+}
+#d4d2{
+    padding: 30px;
+    
+}
+#d4d2>h3{
+    font-size: 35px;
+    font-weight: 500;
+}
+#d4d2>p>span{
+    color: brown;
+    background-color: azure;
+}
+#d4d4{
+    height: 210px;
+    padding: 15px;
+    margin: 10px 15px;
+    border-radius: 6px;
+    background-color: rgb(218, 228, 233);
+}
+#d4d4>h3{
+    font-weight: 500;
+}
+.d4d4>p>span{
+    color: brown;
+}
+.d4d4{
+    padding: 1px 15px;
+    padding-bottom: 1px;
+    background-color: white;
+    margin-bottom: 30px;
+}
+#d4b4{
+    font-size: 18px;
+}
+.d4d4>span{
+    color: brown;
+}
+#d4b5{
+    text-decoration: none;
+    margin-top: 50px;
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(10, 138, 31);
+    color: white;
+    border-radius: 6px;
+}
+#d4d5{
+    background-color: rgb(247, 232, 98);
+    padding: 30px;
+}
+#d4d5>p{
+    font-size: 17px;
+}
+#d4d6{
+    padding: 30px;
+}
+#d4d6>h2{
+    font-size: 30px;
+    font-weight: 500;
+}
+#d4d6>p>span{
+    background-color: azure;
+    color: brown;
+}
+#d4d7{
+    height: 520px;
+    padding: 15px;
+    margin: 10px 15px;
+    border-radius: 6px;
+    background-color: rgb(218, 228, 233);   
+}
+.d4d7>pre{
+    font-size: 17px;
+    margin-left: -130px;
+}
+.d4d7{
+    margin-bottom: 30px;
+    background-color: white;
+}
+#d4sp1{
+    color: blue;
+}
+#d4sp2{
+    color: rgb(99, 24, 24);
+}
+#d4sp3{
+    color: rgb(221, 19, 19);
+}
+#d4b7{
+    text-decoration: none;
+    margin-top: 60px;
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(10, 138, 31);
+    color: white;
+    border-radius: 6px;
+}
+#d4d8{
+    padding: 15px;
+    margin: 10px 15px;
+    border-radius: 6px;
+    background-color: rgb(218, 228, 233);
+}
+#d4d8>h3{
+    font-size: 20px;
+    font-weight: 500;
+}
+.d4d8>pre{
+    font-size: 17px;
+    margin-left: -150px;
+}
+.d4d8{
+    height: 70px;
+    margin-bottom: 0px;
+    background-color: white;
+}
+#d4b8{
+    text-decoration: none;
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(10, 138, 31);
+    color: white;
+    border-radius: 6px;
+}
+#d4d9{
+    height: 160px;
+    padding: 15px;
+    margin: 10px 15px;
+    border-radius: 6px;
+    background-color: rgb(218, 228, 233);
+}
+.d4d9{
+    margin-bottom: 30px;
+    padding-top: 1px;
+    padding-bottom: 14px;
+    height: 28px;
+    background-color: white;
+}
+#d4d10{
+    background-color: rgb(247, 232, 98);
+    padding: 30px;
+}
+#d4d10>p>span{
+    color: brown;
+    background-color: rgba(240, 255, 255, 0.377);
+}
+#d4d11{
+    padding: 30px;
+}
+#d4d11>h1{
+    font-weight: 500;
+}
+#d4d11>p{
+    font-size: 19px;
+
+}
+#d4d11>ul{
+    font-size: 19px;
+}
+#d4d12{
+    background-color: rgb(218, 228, 233);
+    padding: 15px;
+    margin: 15px;
+    border-radius: 6px;
+}
+#d4d12>h2{
+    font-weight: 500;
+}
+.d4d12{
+    background-color: white;
+    padding: 4px;
+}
+#sp1{
+    color: blue;
+}
+#sp2{
+    color: brown;
+}
+#sp3{
+    color: red;
+}
+#d4d13{
+    padding: 30px;
+}
+#d4d13>h1{
+    font-size: 35px;
+    font-weight: 500;
+}
+#d4d14{
+    background-color: rgb(218, 228, 233);
+    padding: 15px;
+    margin: 15px;
+    border-radius: 6px;
+    height: 180px;
+}
+#d4d14>h2{
+    font-weight: 500;
+}
+.d4d14{
+    background-color: white;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+#d4b9{
+    text-decoration: none;
+    font-size: 19px;
+    padding: 12px;
+    background-color: rgb(10, 138, 31);
+    color: white;
+    border-radius: 6px;
+}
+#d4d15{
+    background-color: rgb(247, 232, 98);
+    padding: 30px;
+}
+#d4d15>p>a{
+    color: black;
+}
+#d4d15>p>a:hover{
+    color: rgb(24, 192, 19);
+}
